@@ -1,3 +1,7 @@
+> [!WARNING]  
+> This repo/fork is archived because I now has push access to [Pomegranate](https://github.com/Junior777gg/pomegranate).
+
+# Original description
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 
 * [/iosApp](./iosApp/iosApp) contains an iOS application. Even if you’re sharing your UI with Compose Multiplatform,
